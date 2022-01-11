@@ -1,6 +1,0 @@
-# UI Configurations
-TITLE = 'Voting for Your Cloud'
-VOTE1VALUE = 'Azure'
-VOTE2VALUE = 'AWS'
-VOTE3VALUE = 'GCP'
-SHOWHOST = 'Reset'
